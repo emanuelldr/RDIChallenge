@@ -1,4 +1,4 @@
-# RDI Software Developer Test #
+# RDI Software Development Test #
 
 Dotnet core API for based on credit card data generate a token and validate it.
 
