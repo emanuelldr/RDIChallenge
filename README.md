@@ -9,7 +9,7 @@ Dotnet core API for based on credit card data generate a token and validate it.
 - SQLIte
 - Swagger
 
-## Requiriments
+## Requirements
 
 - .Net Core 2.2 +
 
